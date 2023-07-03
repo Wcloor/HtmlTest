@@ -1720,7 +1720,7 @@ input, select, textarea {
 				text-decoration: none;
 				text-transform: uppercase;
 				font-weight: 800;
-				font-size: 0.95em;
+				font-size: 1.45em;
 				letter-spacing: 0.075em;
 				padding: 0.5em 0.8em 0.5em 0.8em;
 				border-radius: 6px;
@@ -1796,7 +1796,7 @@ input, select, textarea {
 			border-right: 0;
 			color: #fff;
 			color: rgba(255, 255, 255, 0.75);
-			font-size: 2.35em;
+			font-size: 3.35em;
 			font-weight: 700;
 			line-height: 1.3em;
 			margin: 0 0 1.5em 0;
