@@ -325,7 +325,9 @@ input, select, textarea {
 		.row > .col-6 {
 			width: 50%;
 		}
-
+		.row > .col-11 {
+			width: 50%;
+		}
 		.row > .off-6 {
 			margin-left: 50%;
 		}
@@ -1412,6 +1414,8 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
+			width: 25%;
+			
 			margin: 0 2em 2em 0;
 		}
 
